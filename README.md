@@ -14,6 +14,20 @@
 
 ---
 
+## 🧰 Technology Stack & Tooling
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,githubactions,linux,bash,vscode&theme=dark&perline=8" alt="Technology Stack" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
 ## 🧭 Autonomous Incident Response Architecture
 
 This repository bridges cutting-edge **Agentic AI systems** with real-world **Cloud & DevSecOps infrastructure**. By leveraging Anthropic's **Model Context Protocol (MCP)** and **LangGraph multi-agent swarms**, we automate alert triage, telemetry diagnosis, and self-healing GitOps pull requests.
